@@ -19,13 +19,13 @@ printf("Super Trunfo - Países\n");
 printf("Carta  1\n");
 
 printf("Digite o estado(ex:Amazonas): ");
-scanf("%s" , &estado1); 
+scanf("%s" , estado1); 
 
 printf("Digite o código(ex:A01): ") ;
-scanf("%s" , &codigo1) ;
+scanf("%s" , codigo1) ;
 
 printf("Digite o nome da cidade(ex: Manaus): ");
-scanf("%s" , &cidade1) ;
+scanf("%s" , cidade1) ;
 
 printf("Digite a população (ex:50000) cinquenta mil: "); 
 scanf("%d" , &populacao1) ;
@@ -53,13 +53,13 @@ printf("\nSuper Trunfo - Países\n");
 printf("Carta  2\n");
 
 printf("Digite o estado(ex:Amazonas): ");
-scanf("%s" , &estado2); 
+scanf("%s" , estado2); 
 
 printf("Digite o código(ex:A01): ");
-scanf("%s" , &codigo2);
+scanf("%s" , codigo2);
 
 printf("Digite o nome da cidade(ex: Manaus): ");
-scanf("%s" , &cidade2) ;
+scanf("%s" , cidade2) ;
 
 printf("Digite a população (ex:50000) cinquenta mil: "); 
 scanf("%d" , &populacao2) ;
