@@ -46,7 +46,7 @@ printf("Código: %s\n " , codigo1) ;
 printf("Cidade: %s\n" , cidade1) ;
 printf("População: %d\n" , populacao1);
 printf("Pontos Turísticos: %d\n" , pontosturisticos1);
-printf("PIB: %.2f\n milhões de reais" , pib1) ;
+printf("PIB: %.2f\n milhões de reais\n" , pib1) ;
 printf("Àrea Km2: %.2f\n" , area1) ;
 
 printf("\nSuper Trunfo - Países\n");
@@ -80,7 +80,7 @@ printf("Código:%s\n " , codigo2) ;
 printf("Cidade: %s\n" , cidade2) ;
 printf("População: %d\n" , populacao2);
 printf("Pontos Turísticos: %d\n" , pontosturisticos2);
-printf("PIB: %.2f\n milhões de reais" , pib2) ;
+printf("PIB: %.2f\n milhões de reais\n" , pib2) ;
 printf("Àrea Km2: %.2f\n" , area2) ;
 
 //Calcular a Densidade Populacional Carta 1
@@ -102,10 +102,6 @@ printf("A Densidade populacional da carta 2 é : %.2f\n" , densidade2);
 printf("\n***Cáculo do PIB per Capita da carta 2***\n");
 float pibcap2 = (float) (pib2/populacao2);
 printf("O PIB per Capita da carta 2 é : %.2f\n reais" , pibcap2);
-
-
-
-
 
 
 
