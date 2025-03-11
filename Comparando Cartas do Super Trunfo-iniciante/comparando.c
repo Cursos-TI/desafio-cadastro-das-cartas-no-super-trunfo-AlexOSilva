@@ -173,7 +173,7 @@ if(comppib1 > comppib2) {
 }
 
 printf("\n***Comparação das cartas (Atributo: Densidade Populacional)***\n");
-printf("\nCarta 1 - São Paulo :3200");
+printf("\nCarta 1 - São Paulo : 3200");
 printf("\nCarta 2 - Rio de Janeiro : 1600\n");
 
 float compden1 = 3200;
